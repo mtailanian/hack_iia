@@ -20,7 +20,7 @@ brew postinstall python3
 ```
 
 
-Luego crear un virtual environment con nombre "eikyou_env"
+Luego crear un virtual environment con nombre "ha_env"
 ```
 sudo pip3 install virtualenv
 virtualenv -p python3 ha_env

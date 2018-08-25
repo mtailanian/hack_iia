@@ -5,3 +5,4 @@ scikit-learn
 scikit-image
 pillow
 jupyter
+luminoth
