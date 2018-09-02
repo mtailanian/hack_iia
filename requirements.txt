@@ -6,3 +6,7 @@ scikit-image
 pillow
 jupyter
 luminoth
+pandas
+tensorflow
+numpy<=1.14.5
+seaborn
