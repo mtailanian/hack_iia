@@ -29,7 +29,7 @@ Repositorio: https://github.com/Currie32/Predicting-Credit-Card-Fraud
 
 
 # Exploración de datos
-El propósito de este trabajo es ddentificar transacciones fraudulentas con tarjeta de crédito.
+El propósito de este trabajo es identificar transacciones fraudulentas con tarjeta de crédito.
 
 Primero cargamos las bibliotecas requeridas y el conjunto de datos con el que vamos a trabajar.
 
