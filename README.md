@@ -4,22 +4,23 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 # Configuracion de entorno
 
 
-Primero instalar python3.6:
+Primero instalar python3.6 y git:
 
 En Ubuntu (Linux):
 ```
-$ sudo apt-get install python3-pip python3-dev
+$ sudo apt-get install python3-pip python3-dev git
 ```
 
 Desde la Maquina Virtual distribuida con Ubuntu (Linux) sólo este comando:
 ```
-$ sudo apt install python3-pip
+$ sudo apt install python3-pip git
 ```
 
 
-En OSX debemos primero instalar Homebrew:
+En OSX debemos primero instalar Homebrew y git:
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ brew install git
 ```
 
 Luego correr el siguiente comando en consola:
