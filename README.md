@@ -50,7 +50,7 @@ Se prosigue a instalar las dependencias:
 ```
 $ pip3 install -r requirements.txt
 ```
-Luego simplemente desde consola moverse al directorio "hack_iia" y correr el sigiuente comando:
+Luego simplemente desde consola moverse al directorio "hack_iia" y levantar el entorno de desarrollo:
 ```
 $ cd hack_iia
 $ jupyter notebook
