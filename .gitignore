@@ -104,3 +104,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Jupyter outputs
+.ipynb_checkpoints
+
+# Specific to this project
+image_clasification/cifar-10-batches-py/
