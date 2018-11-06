@@ -68,6 +68,12 @@ Una vez instalado Anaconda se debe instalar Virtualenv. El entorno virtual se cr
 ```
 conda create --name env python=3.5
 ```
+
+Descargamos el repositorio del curso desde consola (en caso de no contar con git en la CMD, descargar desde el sitio oficial: https://git-scm.com):
+```
+git clone http://www.github.com/MatiTaila/hack_iia.git
+```
+
 Activamos el entorno virtual: 
 ```
 activate env
@@ -75,10 +81,6 @@ activate env
 Actualizamos el gestor de paquetes:
 ```
 python -m pip install --upgrade pip
-```
-Descargamos el repositorio desde consola (en caso de no contar con git en la CMD, descargar desde el sitio oficial: https://git-scm.com):
-```
-git clone http://www.github.com/MatiTaila/hack_iia.git
 ```
 Para completar la instalación de los paquetes requeridos debemos navegar hasta el directorio del repositorio y luego ejecutar:
 ```
