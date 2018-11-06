@@ -3,6 +3,7 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 # Configuracion de entorno
 
+## Linux/MacOS
 
 Primero instalar python3.6 y git:
 
@@ -15,7 +16,6 @@ Desde la Maquina Virtual distribuida con Ubuntu (Linux) sólo este comando:
 ```
 $ sudo apt install python3-pip git
 ```
-
 
 En OSX debemos primero instalar Homebrew y git:
 ```
@@ -61,3 +61,40 @@ No olvidarse al terminar de trabajar ejecutar:
 ```
 deactivate
 ```
+
+## Windows
+
+En Windows debemos primero instalar Anaconda:
+
+```
+Descargar Anaconda: https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe
+```
+
+Virtualenv
+```
+Se crea con el siguiente comando:
+conda create --name env python=3.5
+```
+Activamos el entorno virtual: 
+```
+activate env
+```
+
+Actualizamos el gestor de paquetes:
+```
+python -m pip install --upgrade pip
+```
+
+Descargamos el repositorio:
+```
+git clone http://www.github.com/MatiTaila/hack_iia.git
+```
+Para completar la instalación de los paquetes requeridos debemos navegar hasta el directorio del repositorio y luego ejecutar:
+```
+pip install -r requirements.txt
+```
+Luego navegar hasta el directorio "hack_iia" y levantar el entorno de desarrollo con el siguiente comando:
+```
+jupyter notebook
+```
+
