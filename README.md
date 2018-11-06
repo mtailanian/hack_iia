@@ -77,6 +77,8 @@ git clone http://www.github.com/MatiTaila/hack_iia.git
 Activamos el entorno virtual: 
 ```
 activate env
+
+(Alternativa \env\Scripts\activate.bat)
 ```
 Actualizamos el gestor de paquetes:
 ```
