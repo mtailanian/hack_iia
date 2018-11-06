@@ -76,7 +76,7 @@ Actualizamos el gestor de paquetes:
 ```
 python -m pip install --upgrade pip
 ```
-Descargamos el repositorio desde consola:
+Descargamos el repositorio desde consola (en caso de no contar con git en la CMD, descargar desde el sitio oficial: https://git-scm.com):
 ```
 git clone http://www.github.com/MatiTaila/hack_iia.git
 ```
