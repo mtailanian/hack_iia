@@ -78,7 +78,7 @@ Activamos el entorno virtual:
 ```
 activate env
 
-(Alternativa \env\Scripts\activate.bat)
+(Alternativa: \env\Scripts\activate.bat)
 ```
 Actualizamos el gestor de paquetes:
 ```
