@@ -11,3 +11,4 @@ tensorflow
 numpy<=1.14.5
 seaborn
 imutils
+imageio
