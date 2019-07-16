@@ -64,6 +64,14 @@ En Windows debemos primero instalar Anaconda:
 ```
 Descargar Anaconda: https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe
 ```
+
+Durante la instalación de Anaconda en un momento se pregunta si deseamos agregar las rutas a las variables de entorno. Es conveniente decir que SÍ. Si por alguna razón se nos pasó, debemos agregar a las variables de entorno las siguientes rutas:
+
+```
+C:\Users\<USUARIO>\Anaconda3
+C:\Users\<USUARIO>\Anaconda3\Scripts
+```
+
 Una vez instalado Anaconda se debe instalar Virtualenv. El entorno virtual se crea con el siguiente comando:
 ```
 conda create --name env python=3.5
