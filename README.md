@@ -90,9 +90,9 @@ Actualizamos el gestor de paquetes:
 ```
 python -m pip install --upgrade pip
 ```
-Para completar la instalación de los paquetes requeridos debemos navegar hasta el directorio del repositorio y luego ejecutar:
+Para completar la instalación de los paquetes requeridos debemos **navegar hasta el directorio del repositorio** y luego ejecutar:
 ```
-pip install -r requirements.txt
+pip install -r hack_iia/requirements.txt --force-reinstall --no-cache-dir
 ```
 Luego navegar hasta el directorio "hack_iia" y levantar el entorno de desarrollo con el siguiente comando:
 ```
