@@ -5,9 +5,12 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 ## Google Colab
 
-Abrir en github el archivo init_ia2003.ipynb y darle click al boton Google Colab
 
-![Screen shoot](images/Screenshoot.png)
+Abrir el python notebook: ```init_ia2003.ipynb``` y darle click al boton **Google Colab**
+
+![Screen shoot](images/Screenshot_init.png)
+
+![Screen shoot](images/Screenshot_colab.png)
 
 ## Linux/MacOS
 
