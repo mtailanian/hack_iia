@@ -3,9 +3,9 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 # Configuracion de entorno
 
-## Google Colab
+## Google Colaboratory
 
-1) Abrir el python notebook: ```init_ia2003.ipynb``` y darle click al boton **Open in Colab**
+1) Abrir el python notebook: ```init_ia2003.ipynb``` y darle click al botón **Open in Colab**
 
 ![Screen shoot](images/Screenshot_init.png)
 
