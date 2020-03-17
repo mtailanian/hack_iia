@@ -21,7 +21,7 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 ![Screen shoot](images/Screenshot_run.png) 
 
-4) Permitir el acceso al drive haciendo clink en el link, copiar el codigo y pegarlo en el parrafo del notebook.
+4) Permitir el acceso al drive haciendo click en el link, copiar el codigo y pegarlo en el parrafo del notebook.
 
 ![Screen shoot](images/Screenshot_link.png)  
 
