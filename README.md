@@ -3,6 +3,12 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 # Configuracion de entorno
 
+## Google Colab
+
+Abrir en github el archivo init_ia2003.ipynb y darle click al boton Google Colab
+
+![Screen shoot](images/Screenshoot.png)
+
 ## Linux/MacOS
 
 Primero instalar python3.6 y git:
