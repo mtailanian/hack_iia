@@ -3,6 +3,42 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 # Configuracion de entorno
 
+## Google Colaboratory
+
+1) Abrir el Jupyter notebook ```init_ia2003.ipynb``` (click izquierdo en el archivo) y darle click al botón **Open in Colab**
+
+![Screen shoot](images/Screenshot_init.png)
+
+2)Se abrirá Google Colaboratory, cómo se puede ver debajo.
+
+![Screen shoot](images/Screenshot_colab.png)
+
+3) Luego ir a Archivo -> Guardar una copia en Drive...
+
+![Screen shoot](images/Screenshot_ipynb_copy.png)
+
+3) Se abrirá una nueva ventana, donde se deberá ir a Entorno de Ejecución -> Ejecutar todas (ver captura de pantalla debajo)
+
+![Screen shoot](images/Screenshot_run.png) 
+
+4) Permitir el acceso al drive, para ello hacer click en el link, copiar el código y pegarlo en el párrafo del notebook.
+
+![Screen shoot](images/Screenshot_link.png)  
+
+5) Una vez que corra el notebook, en el drive aparecerá una carpeta nueva llamada ```hack_iia```. Ésta contendrá los notebooks utilizados en el curso. A continuación se ve un ejemplo de cómo se visualizaría en chrome.
+
+![Screen shoot](images/Screenshot_drive.png)  
+
+6) Ahora corramos un notebook de ejemplo. Para ello abrir Google drive, navegar a la carpeta ```python_examples``` (dentro de hack_iia). Donde estará el notebook llamado ```python_examples.ipynb```. Luego, botón derecho -> abir con -> Google Colaboratory
+
+![Screen shoot](images/Screenshot_example_run.png)   
+
+7) Una vez que abrimos el notebook podemos correr parrafos. Comencemos por imprimir números en pantalla!
+
+![Screen shoot](images/Screenshot_run_python_examples.png)   
+
+8) En hora buena! ya tienes la configuración del entorno realizada en Google Colaboratory y haz corrido un notebook!
+
 ## Linux/MacOS
 
 Primero instalar python3.6 y git:
