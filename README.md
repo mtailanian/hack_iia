@@ -5,14 +5,42 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 ## Google Colab
 
-
-Abrir el python notebook: ```init_ia2003.ipynb``` y darle click al boton **Open in Colab**
+1) Abrir el python notebook: ```init_ia2003.ipynb``` y darle click al boton **Open in Colab**
 
 ![Screen shoot](images/Screenshot_init.png)
 
-Luego se va abrir Google Colaboratory, cómo se puede ver debajo.
+2) Luego se va abrir Google Colaboratory, cómo se puede ver debajo.
 
 ![Screen shoot](images/Screenshot_colab.png)
+
+3) Archivo -> Guardar una copia en Drive...
+
+![Screen shoot](images/Screenshot_ipynb_copy.png)
+
+3) Se abrirá una nueva ventana, donde se deberá ir a Entorno de Ejecución -> Ejecutar todas (ver captura de pantalla debajo)
+
+![Screen shoot](images/Screenshot_run.png) 
+
+4) Permitir el acceso al drive haciendo clink en el link, copiar el codigo y pegarlo en el parrafo del notebook.
+
+![Screen shoot](images/Screenshot_link.png)  
+
+5) Una vez que corra el notebook, en el drive aparecera una carpeta nueva llamada hack_iia, la que contendrá los ipython notebooks utilizados en el curso. A continuación se ve un ejemplo de cómo se visualizaría en chrome.
+
+![Screen shoot](images/Screenshot_drive.png)  
+
+6) Ahora corramos un notebook de ejemplo. Para ello navegar a la carpeta python_examples dentro de hack_iia. Donde estará el notebook llamado ```python_examples.ipynb```, botón derecho -> abir con -> Google Colaboratory
+
+![Screen shoot](images/Screenshot_example_run.png)   
+
+7) Una vez que abrimos el notebook podemos correr parrafos. Comencemos por imprimir números en pantalla!
+
+![Screen shoot](images/Screenshot_run_python_examples.png)   
+
+8) En hora buena! ya tienes la configuración del entorno realizada y haz corrido un notebook!
+
+
+
 
 ## Linux/MacOS
 
