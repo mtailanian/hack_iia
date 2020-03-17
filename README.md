@@ -3,13 +3,13 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 # Configuracion de entorno
 
-## Google Colaboratory
+## Google Collaboratory
 
 1) Abrir el Jupyter notebook ```init_ia2003.ipynb``` (click izquierdo en el archivo) y darle click al botón **Open in Colab**
 
 ![Screen shoot](images/Screenshot_init.png)
 
-2)Se abrirá Google Colaboratory, cómo se puede ver debajo.
+2)Se abrirá Google Collaboratory, cómo se puede ver debajo.
 
 ![Screen shoot](images/Screenshot_colab.png)
 
@@ -29,7 +29,7 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 ![Screen shoot](images/Screenshot_drive.png)  
 
-6) Ahora corramos un notebook de ejemplo. Para ello abrir Google drive, navegar a la carpeta ```python_examples``` (dentro de hack_iia). Donde estará el notebook llamado ```python_examples.ipynb```. Luego, botón derecho -> abir con -> Google Colaboratory
+6) Ahora corramos un notebook de ejemplo. Para ello abrir Google drive, navegar a la carpeta ```python_examples``` (dentro de hack_iia). Donde estará el notebook llamado ```python_examples.ipynb```. Luego, botón derecho -> abir con -> Google Collaboratory
 
 ![Screen shoot](images/Screenshot_example_run.png)   
 
@@ -37,7 +37,7 @@ Introducción a la Inteligencia Artificial - Curso Hack Academy
 
 ![Screen shoot](images/Screenshot_run_python_examples.png)   
 
-8) En hora buena! ya tienes la configuración del entorno realizada en Google Colaboratory y haz corrido un notebook!
+8) En hora buena! ya tienes la configuración del entorno realizada en Google Collaboratory y haz corrido un notebook!
 
 ## Linux/MacOS
 
