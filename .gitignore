@@ -110,3 +110,5 @@ venv.bak/
 
 # Specific to this project
 image_clasification/cifar-10-batches-py/
+face_detector/dataset/train/*
+face_detector/dataset/test/*
